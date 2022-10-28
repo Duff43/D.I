@@ -1,0 +1,11 @@
+C:\Users\solin\source\repos\Suma\Suma\bin\Debug\Suma.exe.config
+C:\Users\solin\source\repos\Suma\Suma\bin\Debug\Suma.exe
+C:\Users\solin\source\repos\Suma\Suma\bin\Debug\Suma.pdb
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.csproj.AssemblyReference.cache
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.csproj.SuggestedBindingRedirects.cache
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.Form1.resources
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.Properties.Resources.resources
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.csproj.GenerateResource.cache
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.exe
+C:\Users\solin\source\repos\Suma\Suma\obj\Debug\Suma.pdb
