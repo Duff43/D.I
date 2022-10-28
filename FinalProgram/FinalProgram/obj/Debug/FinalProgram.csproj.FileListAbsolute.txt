@@ -1,0 +1,8 @@
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\bin\Debug\FinalProgram.exe.config
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\bin\Debug\FinalProgram.exe
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\bin\Debug\FinalProgram.pdb
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\obj\Debug\FinalProgram.csproj.AssemblyReference.cache
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\obj\Debug\FinalProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\obj\Debug\FinalProgram.csproj.CoreCompileInputs.cache
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\obj\Debug\FinalProgram.exe
+C:\Users\solin\source\repos\FinalProgram\FinalProgram\obj\Debug\FinalProgram.pdb
